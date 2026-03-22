@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Machine Learning & Large Files
+backend/models/*.pkl
+backend/models/*.keras
+backend/data/*.csv
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+.DS_Store
+
+# Environment variables
+.env
